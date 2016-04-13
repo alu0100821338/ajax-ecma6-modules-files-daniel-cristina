@@ -13,12 +13,10 @@ app.use(expressLayouts);
 
 app.use(express.static(__dirname + '/public'));
 
-const calculate = require('XXXXXXXXXXXXXXXXXX');
+//const calculate = require('XXXXXXXXXXXXXXXXXX');
 
 app.get('/', (request, response) => {
-});
-
-app.get('/csv', (request, response) => {
+  response.render('csv');
 });
 
 app.listen(app.get('port'), () => {
