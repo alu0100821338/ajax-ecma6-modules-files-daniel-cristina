@@ -7,9 +7,9 @@ table.center {
 	margin-top: 10px;
 
 	border: ridge;
-	border-color: black;
+	border-color: #052600;
 
-	background-color: #BFA1A9;
+	background-color: #EBE6E9;
 }
 .output tr:nth-child(odd)    { background-color:#eee; }
 .output tr:nth-child(even)   { background-color:#6AD946; }
