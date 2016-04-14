@@ -43,5 +43,5 @@ The success callback function is passed the returned data, which will be an XML 
 * Enlace [repo] (https://github.com/alu0100821338/ajax-ecma6-modules-files-daniel-cristina) de trabajo.
 
 # Autores
-* Daniel Daher Pérez: [alu0100811933] (http://alu0100811933.github.io/﻿).
-* Cristina Tosco González: [alu0100821338] (http://alu0100821338.github.io/﻿).
+* Daniel Daher Pérez: [alu0100811933] (http://alu0100811933.github.io﻿).
+* Cristina Tosco González: [alu0100821338] (http://alu0100821338.github.io﻿).
