@@ -5,12 +5,12 @@ table.center {
 
 	margin-left: 90px;
 	margin-top: 10px;
-	
+
 	border: ridge;
-	border-color: blue;
-	
-	background-color: white;	
+	border-color: black;
+
+	background-color: #BFA1A9;
 }
 .output tr:nth-child(odd)    { background-color:#eee; }
-.output tr:nth-child(even)   { background-color:#00FF66; }
-.error td{ background-color: red; }
+.output tr:nth-child(even)   { background-color:#6AD946; }
+.error td{ background-color: #730600; }
