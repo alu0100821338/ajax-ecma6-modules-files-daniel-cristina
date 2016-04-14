@@ -4,22 +4,19 @@
   "description": "Analizador de cadenas csv usando AJAX",
   "main": "csv.js",
   "scripts": {
+    "start": "node app.js",
     "test": "firefox tests/index.html"
   },
   "repository": {
     "type": "git",
-    "url": XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    "url": "https://github.com/alu0100821338/ajax-ecma6-modules-files-daniel-cristina"
   },
   "keywords": [
     "csv"
   ],
-  "author": XXXXXXXXXX
-  "contributors": [],
+  "author": "Daniel Daher Pérez, Cristina Tosco González",
   "license": "ISC",
-  "bugs": {
-    "url": XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  },
-  "homepage": XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  "homepage": "https://github.com/alu0100821338/ajax-ecma6-modules-files-daniel-cristina",
   "dependencies": {
 	"jquery": "*",
     "underscore": "*",
@@ -29,7 +26,7 @@
     "express-ejs-layouts": "~1.1.0"
   },
   "engines": {
-    "node": XXXXX
+    "node": "4.2.1"
   },
   "devDependencies": {
   }
